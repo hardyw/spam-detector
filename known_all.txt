@@ -1,0 +1,201 @@
+30 Good/non-spam emails below
+
+Email #1
+Yes I would like to get together with you and visit your lab.  We returned  last week from France, and then I left for Alaska.  A real cultural shock!   I am now running around to catch up on 4 weeks of backlog.  Could we get together next week?  At this point I do not have any fixed  engagements so I will let you suggest a time.
+
+Email #2
+This is the time of the year - dark, rainy, and trying to survive. It is time for a dessert party. You and your significant other are invited to come to our place for a dessert party. Please RSVP so that I have a head count. If you must insist, you can bring some drinks.
+
+Email #3
+In the upcoming retreat, we will have a segment on the role of online material for our courses. Given what are doing or planning to do with your course, I would like to have a brief 30-min chat with you about your plan and experience. Some time on Friday or next week?
+
+Email #4
+since our last telco, I've found much more time for the work (the semester is over..) so the good news is that we've moved forward quite a bit this time! I actually tried to finish the paper by next week and submit it to ICDM but it turned out to be unrealistic because there were still too many experiments to be done. The next conference is ICDE (the deadline is July 23, I think) so we could try to aim for that.
+
+Email #5
+Yes. Actually I didn't know how to create a poll for any general week so I selected the week of Feb 11 as an example and entered my free times.  If you could select your preferences/free times from the poll then that would be great,
+
+Email #6
+Good morning gentlemen!  Attached is your electronic copy of our submission to MSFHR.  I have excluded the 5 CV modules that were part of our submission Monday in the interests of brevity.  Please contact me with any questions or concerns.
+
+Email #7
+I have attached a list of the top 50 genes SAGE Normalized and Old Housekeeping Normalized permutation results with 10,000 iterations.
+ 
+20 Sq vs 17 Normal experiments.
+ 
+SQIntersection-April3.txt - (note: contains duplicates) All the genes that are contained in the permutation results of both SAGE normalized and Old Housekeeping Normalized.
+
+Email #8
+I have sent out the paper. This is the latest. I had to change the table numbers as you had deleted a table and forgot to change up the tables. And some other minor stuff.  I have attached my changes and I sent out an 8 page reference.
+
+Email #9
+Please find attached a draft of the Genome Canada applied genomics proposal for final review and comment.  Its attached as a 1MB pdf file.  We are continuing to work on the budget for the proposal.
+ 
+We need to obtain some institutional signatures, and I will email and contact you separately to see how we may most efficiently do that.
+
+Email #10
+Perm3 is the parallel processing version.  The iterations have to be included in the command line for perm3, so perm3 file1.txt file2.txt outputfile.txt 10000. I kept getting weird errors  associated with LAM-MPI when I tried to get the number of iterations from the command line. PTPsingle is the single processor version, and asks for the iterations once run.
+
+Email #11
+this is a draft invoice. Please let me know whether I use the right words. I plan to inovice 3 times: 4 months, 4 months and 3 months. Each month is $2000.   I do not put it down in the invoice. But I would prefer to have the cheque written out in my name.
+
+Email #12
+I think one of the reviewer's comments are well taken - how do we determine if the DNA signature we found is predictive of survival (or no recurrence) rather than chemosensitivity. If we have done Cases 1 to 14 from Ming, we should compare the ones without recurrence with the ones that did and show that the signatures are different from the remaining cases. This would be a powerful argument. What do you think? 
+
+Email #13
+as I mentioned yesterday  I'm sending you the camera-ready version and the latex source of the paper.  The gray paragraphs are relative to the discussion we made here last week. Let me know if you have any comments or suggestions and feel free to modify the latex source (I am not sure about how expensive is to make a uA, and I've been a bit sloppy in the paragraph about lung cancer; do you have any reference ?).
+
+Email #14
+I send you some photos of the thanksgiving party and of the dinner we had the day before my departure. It is a pretty big attachement, I hope you get it, otherwise I will send the photos in separate emails. Please, let me know if you have any comments about the final draft of the paper I sent you because I'm going to submit it in few days.
+
+Email #15
+The reviews of your manuscript are now in hand for  Bioinformatics, and can be found at the foot of this e-mail.   As you can see, the referees indicate that more work is needed  before the paper is ready for publication. Based on the reports,  the editor has rejected the paper for publication in its present  form, and recommends that the paper be rewritten, taking into  account all the refereesEcomments.
+
+Email #16
+good news! Our efforts have been rewarded!  My first journal publication ... ok let's have a party
+
+Email #17
+Happy New Year to you and your family! Please let me know of any problems with the unit and I will direct the issues to the appropriate people.  Would you let me know right away which lights specifically and which drawer(s). Re: the cable - we have been having problems with it and are going through different lines this week to have it fixed.  Please do let me know any change in status, or if there is still a problem in three days.
+
+Email #18
+Good news - here is the procedure for dealing with unauthorized parking around your townhouses: 1.  Call UBC Parking and Security  2.  Register a "parking complaint" 3.  Be sure to give the color, license # and make of the car in question.
+
+Email #19
+I dealt with this in my email to Angela of yesterday.  You will see that the regime that Properties has already established meets your request.  As you will see from my email to Angel, in my opinion, if we can come up with a sensible way of communicating concerns to Properties, particularly given that Properties made a staging decision that, in my opinion, will protect those in the Lane to the greatest extent possible, the frustration of the new construction should, hopefully, be manageable.
+
+Email #20
+Just to confirm the following meeting dates for the next 3 Committee are:
+Feb.11, Mar.11, April 8, all at 5:30 pm. The Gardenia Room is still to be confirmed.
+ Attached is the committee contact list.  
+Minutes will be sent in the next few days.
+
+Email #21
+The committee is evaluating whether residents here at UBC receive    adequate parks and leisure services. The reference point is a report    provided by a consultant company about 18 months ago. Please visit    the website to get a copy of the    report. There are two basic claims: (i) UBC has a lot of excess    capabilities; and (ii) thus it is sufficient for the residents to    piggyback on these facilities. 
+
+Email #22
+As I am preparing for tomorrow's visioning exercise, I attach here some of the email discussions I collected from my fellow residents on bus. I don't know whether we will have time to talk about this issue. Nonetheless, I circulate this for your perusal, and perhaps for a future discussion.
+
+Email #23
+There was consensus that when new sports and recreational facilities were designed, a key principle would be multi-use and flexible space, which could be easily re-configured for different activities. There was also agreement that sometimes space should not be exclusively reserved for students, and can be shared simultaneously with other groups if possible. Furthermore, facilities should be designed to allow extended hours of access.
+
+Email #24
+The fireplace works great. Thanks. I am interested to hear more about arrangements that make the fire look nice. I guess that the little flame on the right side will always be on even when the fireplace is switched off?  Do you know approximately when the tub and faucet problems will be fixed?  Have a good weekend.
+
+Email #25
+One of my light shirts had the black stuff on it after washing/drying it last night. We looked carefully at our laundry after washing/drying it in the last couple of weeks and haven't seen anything until yesterday. But it means that the problem is not resolved and that we still have to worry about it when we do our laundry. The 30-day warranty from the repair person expires on Friday I believe. He didn't seem to have a good clue as to what the problem is but maybe you want to talk to him yourself, or have him come out a second time.
+
+Email #26
+Okayama City and Fukuyama City where we live is only 20 min. by Hikari Shinkan-sen. But there is not so much to see in Fukuyama City. So it may be better to meet you at the sightseeing spots around my city such as Onomichi or Kurashiki (or any place you want to see). Shin-Onomichi station is next station to Fukuyama station. From Okayama, it is about 40 min by Kodama Shinkansen. From Shin-Onomichi station, We can see Onomichi city which is a very old city with slopes and temples. 
+
+Email #27
+I am impressed that you have already found the place to stay in Japan.  Of course, I do not mind to book the room in Ueno, asking about possibilities of cancelling it. I'll let you know about your reservation.
+
+Email #28
+It is convenient for me in the afternoon of April 13.  I would appreciate it if you could consider the possibility to make your talk here (for about one hour).  If possible, please let me know the title and abstract of your talk.
+
+Email #29
+How are you doing to prepare the trip to Japan? I have a good news for you today. I managed to have days off on 17th and 18th. It is going to be enjoyable stay in Kochi. Let me know when and where I can pick you up in Kochi. Take care.
+
+Email #30
+Received your email.  The conference committee also needs your telephone number and fax number.  Could you please let me know today? Thanks.
+
+
+
+
+
+30 SPAM emails below
+
+Email #1
+Looks ready to possibly breakout!!! Today`s Mega Gains Alert  and News Watch!!!  To buy: M O_N K Get it at: $.19 Trade Date: Aug 22nd Company Name: MONARCHY RESOURCES INC Long Term Target Price: 1.30  A must read! New Sub Penny Alert Coming Soon!!!
+
+Email #2
+Natick MA USA -- Medical E-News Daily™ | Aug 22 2013 -- The Laboratory Safety Institute (Natick MA) announced details today of its next webinar, Regulatory Compliance in the Laboratory, to be held Oct 18 2013. Medical E-News Daily™ subscribers can receive a 20% discount by using the BMN registration code listed below.
+ The webinar will be taught by Dr. James A. Kaufman, President/CEO of the Laboratory Safety Institute. 
+Email #3
+Want a sexy body that sizzles? Tone your ENTIRE body AND get rock-hard abs in 4 weeks with my brand new product! Try them free today!  Obese people of the world have been waiting for this news for years! We are glad to introduce you to a brand new slimming product that is absolutelly safe, natural and efficient. Obese people taking the product report losing weight round the clock without food restrictions and dangerous exercises. As a rule they become 15 pounds lighter every month! Take our product regularly and enjoy hot body, endless energy and perfect health.
+
+Email #4
+This Company Just Released News This Morning! It Is About to Soar!  Trade Date: Friday, Aug 23 Short Term Target: $1.15 Company Name: MONARCHY RESOURCES Now: 0.2 Stock: MO_NK  The most important alert I ever wrote! HUGE NEWS AGAIN TODAY!!!
+
+Email #5
+Energy Efficiency Done Right presents information on the In'Flector See Through Radiant Barrier Window and Skylight Insulator and the Energy Efficiency Industry. We will examine the growth of the energy efficiency, conservation, energy independence, and carbon emmission industries and explain a opportunity to represent or purchase our Insulator products.
+
+Title:
+IN’FLECTOR-A UNIQUE OPPORTUNITY IN THE ENERGY EFFICIENCY INDUSTRY
+Date:
+Tuesday, August 27, 2013
+Time:
+10:00 AM - 11:00 AM CDT
+After registering you will receive a confirmation email containing information about joining the Webinar.
+Email #6
+Google Analytics has given you many great new features for your website visitor, source, and conversion tracking. And there’s even much more you can do when you take full advantage of your data from Google Analytics. 
+Ask and answer deeper questions: How well does the respondent audience in your web visits correspond to your target audience? What traffic sources yield the most valuable customers, not just one-time conversions? How can you enable colleagues who are not web-analytics gurus to more fully use and benefit from your website data? And how can you do all this quickly, without a lot of manual work? 
+Download this whitepaper from Tableau to see these five tips to get more from your Google Analytics data. 
+Email #7
+1.	Pandora has over 76,000,000 unique monthly listeners and is the largest radio station in 95% of the major areas across the United States. 
+2.	You select the age, gender, and location of your target audience and then you create an ad specific to only them. 
+3.	No guessing at who is listening to your ads. Example: You can create ads for females age 20-45 in your county. Nobody else will hear these ads so you don't waste money on the wrong demographic.
+4.	Each radio commercial is accompanied by a banner ad that stays on the screen for 20 minutes. Customers can click and immediately visit your website.
+5.	Our clients are seeing a 200% - 500% increase in web traffic from day 1. 
+6.	More people pay attention to commercials on Pandora because only 1 ad plays only every 20 minutes. 
+7.	Pandora market share is almost 75% among internet radio providers. 
+8.	No long term commitments required. 
+9.	Radio scripting and production is FREE with Max Connect Marketing.
+10.	Reports are delivered every month that detail the # of commercials and clicks per county.
+Email #8
+My name is George Whitehead, a broker based in the U.K for a number of growing firms based in Asia involved in Imports/Exports of products and industrialized goods.Would you be interested in a representative job?Please respond to this Email: georgewhitehead@qq.com
+Email #9
+We got your contact from one of your customers in the Spain. We have interest in purchasing your products and we sincerely hope to establish a long-term business relation with your esteemed company. Please kindly check the attachment and find our PRODUCT ORDER LIST, SAMPLE CATALOGUE/DESIGN and please do inform me if you make exactly the same with the right quality material.
+ 
+Please kindly email me your latest catalogue as attachment. Also, inform me about the MOQ, Delivery time, and payment terms.
+ 
+Your early reply is highly appreciated. Thank You!
+ 
+Email #10
+What a year 2012 was for big data! From the White House to your house, it’s hard to find an organization or consumer who has less data today than a year ago. Database options proliferate, and business intelligence evolves to a new era of organization-wide analytics. And everything’s mobile. 
+Organizations that successfully adapt their data architecture and processes to address the three attributes of big data — volume, variety and velocity — are improving operational efficiency, growing revenues and empowering new business models. With all the attention organizations are placing on innovating around data, the rate of change will only increase. So what should you expect to do to succeed with big data in 2013? 
+Gain more insight with this guide today!
+Email #11
+Attention of all obese people! A brand new slimming product is about to blow the world. We state having a panacea for overweight people because ALL our obese patients who used the product enjoyed losing 10-15 kilograms a month effortlessly and safely. You will not have to sit on a diet and experience huger cramps or attend a gym and ache all over. Take the product regularly and enjoy natural appetite reduction, boosted energy and slimmer body.
+Email #12
+You were recently selected as a candidate for publication in the prestigious Top 100 Executives of 2013 Magazine.
+It is my distinct pleasure to inform you that your candidacy has been reviewed and approved by a special committee and that your biography may soon be featured in this extraordinary and professional magazine.
+Only the most accomplished and distinguished men and women are considered for this honor and there is NO COST or obligation to be listed.
+Email #13
+Enterprises are rapidly adopting virtualization for dynamic service delivery and service management agility. IT challenges already exist in virtual environments and will only be exacerbated with the higher adoption of virtualization. The ability to proactively monitor traffic within these environments is critical for enabling predictable and reliable delivery of applications and for troubleshooting diverse IT infrastructures. Virtual Cascade® Shark® software is a software version of the Cascade Shark appliance that resides inside a hypervisor to provide visibility into virtual environments. Enterprises now have a solution that addresses the new challenges IT managers, administrators, and operators face with managing application performance within virtual environments.
+Email #14
+We are dedicated to bringing consumers the most up to date reviews on the latest and greatest weight loss products. We are the first to bring you in depth reviews on the most popular products.
+Email #15
+Connect with four leading pharma researchers from Pfizer and GSK, as they provide insight into their current phenotypic screening projects at Cambridge Healthtech Institute's upcoming FAST: Functional Analysis & Screening Technologies Congress. The presentations will take place as part of the Phenotypic Discovery conference, October 28-29 in Cambridge, MA. To learn more, visit FASTCongress.com/Phenotypic-Drug-Discovery or view the event brochure.
+Email #16
+Your search ends with Indus Valley if you are looking for a quality transcription service provider with full cost advantage. Indus Valley has a decade long experience in providing quality transcription service across all medical and legal specialties.
+Email #17
+The PMMC is designed for those seeking professional project management certification. It serves as both a thorough professional education and recognized certification. Those seeking additional credentials such as the PMP®/PgMP®, PMI-SP®, and PMI-RMP® will benefit from this dynamic and interactive work session, while those currently holding credentials will find the certification to be an enhancement as well as the most up to date advanced professional development.  
+Email #18
+Roy Pollock, Senior Director of Biological Sciences at Epizyme, will discuss targeting histone methyltransferases in cancer therapy. Register to attend the conference and learn how Epizyme has synthesized potent and selective small molecule inhibitors of several histone methyltransferases (HMTs), including EZH2, as a step towards developing targeted therapeutics for human cancers bearing defined genetic lesions.
+Email #19
+We currently are offering  below  Inhibitor  for  clinical trials  in  pack size of 100mg / 500mg / 1gm and  5gm  , bigger the  quantity  better  the  price .
+Email #20
+This Stock is trading huge volume!!! Quick Read Inside!!!  To buy: M-O N_K Market: .19 Company: MONARCHY RESOURCES Date: Aug, 28 Target Price: $1.95  I need you to look at It Immediately! And Our Alert Is.
+Email #21
+Let me use the liberty of this medium to inform you that my principal is interested in investing his bond as a silent business partner in your company. He would like to invest in private sector projects with an established company in any project(s) which are already in the market and have market value or new company requiring the     injection of huge funds, provided there are lots of opportunities available, taking into proper consideration the Return on Investment (ROI) based on a ten (10) year strategic plan.      Kindly indicate your interest in my client’s proposition by furnishing me with your Bio data, business/personal contact details and any other information/detail that may help in the actualization of the impending investment portfolio.
+Email #22
+With it the world will forget about obesity within a decade! You have a chance of enjoying your life here and now without any delays. Take our product and lose at least 10 kilograms a month DOING NOTHING! The product works directly in your brain suppressing hunger signals and makes you slender burning body fat round the clock. Isn't it what you have always wanted to have? You can eat whatever you want and sit in front of your PC losing excessive weight.
+Email #23
+“You need to play the game at work.” Have you heard this saying before? Who hasn’t?  The management world can be a tricky one to thrive in; you finally find your groove and something – or someone – comes along and pulls the rug out from under you. The key to your continuing success is understanding the game and learning everything you can about the other person playing it.
+Email #24
+Bently Residences is a new upcoming freehold low rise residential project at Kovan in District 19. Only 48 exclusive units are available at Bentley Residences. Bentley Residences is set to awe you and your family a modern contemporary lifestyle with luxury and tranquility.
+Email #25
+To help you excel as a first-time manager or an experienced supervisor, Administrative Professional Today is teaming up with workplace guru and syndicated columnist Marie McIntyre on a new webinar that will help you make the transition from co-worker to supervisor. Introducing The 6 Secrets Every Supervisor Needs to Know.
+Email #26
+Dare I suggest that western governments raining down depleted uranium in all corners of the world, spraying chemtrails in our skies, playing Dr. Frankenstein with our food, drugging us into oblivion with psychotropic poison pills, shooting x-rays to expose our naked bodies, and injecting us with toxic vaccines really care about our physical well-being?
+Email #27
+Ever wanted a pool but just didn’t have the space? What about a pool that can be set to the temperature you desire, with less chlorine than standard tap water… a pool that can be installed virtually anywhere, indoors or out and used year-round for lap swimming, aquatic exercise, therapy and family fun? For more than 25 years and available in 80 countries, Endless Pools is your answer! They are staffed with over 100 qualified architects, designers, engineers, and customer service professionals, to help you plan, install and maintain the Endless Pool of your dreams.
+Email #28
+Hello rng, my name is Olivia Sampson. Finally I found a product that is 100% helps to lose weight! Do you want new, perfect body? Just click here
+Email #29
+Concrete, wood, and metal surfaces in both residential and commercial spaces will be better protected for longer through this advancement.   It's easy to apply, and one application will provide environmentally safe protection for years, and you don't need a professional to apply it. 
+Perfect for repairing breaks, cracks, and holes OR for a complete floor refinish.   Its non-slip coating is safe for wooden decks and patios, warehouse/commercial kitchen floors, and even swimming pools and metal roofs. 
+Email #30
+How do you feel about enriching yourself by means of war? It`s  perfect time to realize this! As soon as the military attack Syria,  oil prices will rise as well as MONARCHY RESOURCES, INC. (M-O N K)  share price. Begin earning cash on Monday, September 02nd, purchase  M-O N K shares!!!
+
